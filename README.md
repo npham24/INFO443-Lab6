@@ -10,4 +10,4 @@
 8. Run the script via `node ./exercise/problem-a.js` and check if your code passes the given tests
 9. If your code passes the tests, `add`, `commit`, and `push` your code to `dev`.
 10. Create a pull request to merge your commits from `dev` into `master` in **your** repository, rather than the repo you forked from.
-11. Submit the link to your pull request on Canvas under Lab 1 Exercise`
+11. Submit the link to your pull request on Canvas under Lab 6 Exercise`
